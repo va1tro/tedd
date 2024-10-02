@@ -7,6 +7,7 @@ fun main() {
         return
     }
 
+
     val b = StringBuilder()
     var c = a[0]
     var count = 1
